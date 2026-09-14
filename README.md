@@ -50,5 +50,4 @@ Requiere Python 3. No hay que instalar nada.
 ## Autoría
 
 Proyecto grupal de la asignatura, desarrollado por Pinto Armacta Higinio Jhunior,
-Torres Cama Merelin Rubi, Checca Ccolqque Denis Yeison, Huaccanqui Velasquez Duvan Rodrigo,
-Sicos Alcca Gabriel Omar y Challco Montufar Deivis Alexander.
+Torres Cama Merelin Rubi, Checca Ccolqque Denis Yeison
