@@ -18,11 +18,6 @@ Torres Cama Merelin Rubi
 
 Checca Ccolqque Denis Yeison
 
-Huaccanqui Velasquez Duvan Rodrigo
-
-Sicos Alcca Gabriel Omar
-
-Challco Montufar Deivis Alexander
 
 ##PROYECTO : Sistema Didáctico Interactivo en Lenguaje Natural
 ##Malla Curricular de la carrera de Ingenieria Informatica y de Sistemas
